@@ -24,6 +24,8 @@ matplotlib 3.1.3
 
 numpy 1.18.1
 
+pillow 7.1.2
+
 **Step 2: Run main.py after download and extract the ZIP file.**
 
 ## License
