@@ -20,6 +20,10 @@ python 3.6
 
 tensorflow 1.9
 
+matplotlib 3.1.3
+
+numpy 1.18.1
+
 **Step 2: Run main.py after download and extract the ZIP file.**
 
 ## License
