@@ -17,6 +17,7 @@ Ghost imaging (GI) facilitates image acquisition under low-light conditions by s
 **Step 1: Configuring required packages**
 
 python 3.6
+
 tensorflow 1.9
 
 **Step 2: Run main.py after download and extract the ZIP file.**
