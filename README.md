@@ -26,7 +26,7 @@ numpy 1.18.1
 
 pillow 7.1.2
 
-**Step 2: Run main.py after download and extract the ZIP file.**
+**Step 2: Run GIDC_main.py after download and extract the ZIP file.**
 
 ## License
 For academic and non-commercial use only.
