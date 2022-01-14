@@ -3,7 +3,8 @@
 By Fei Wang, Jan 1, 2022
 Contact: WangFei_m@outlook.com
 This code implements the DNN structure and measurements process of GIDC algorithm reported in the paper: 
-Fei Wang, Chenglong Wang, Wenlin Gong, Shensheng Han, and Guohai Situ. 'Far-field super-resolution ghost imaging with a deep neural network constraint,'  
+Fei Wang et al. 'Far-field super-resolution ghost imaging with adeep neural network constraint'. Light Sci Appl 11, 1 (2022).  
+https://doi.org/10.1038/s41377-021-00680-w
 Please cite our paper if you find this code offers any help.
 
 Inputs:
